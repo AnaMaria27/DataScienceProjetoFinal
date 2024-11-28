@@ -1,11 +1,3 @@
----
-title: "Computação Aplicada"
-format:
-  html:
-    code-fold: true
-jupyter: python3
----
-
 
 # Tema do Projeto
 
